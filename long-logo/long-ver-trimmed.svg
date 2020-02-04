@@ -39,8 +39,8 @@
 		</g>
 	</g>
 	<g>
-		<path fill="none" stroke="#5397D1" stroke-width="15" stroke-miterlimit="10" d="M571.1,250.1H674c11.5,0,22.1-6.1,27.8-16.1
-			l51.5-89.1c5.7-9.9,5.7-22.2,0-32.1l-51.5-89.1C696.1,13.6,685.5,7.5,674,7.5H571.1"/>
+		<path fill="none" stroke="#5397D1" stroke-width="15" stroke-miterlimit="10" d="M570.1,250.1H673c11.5,0,22.1-6.1,27.8-16.1
+			l51.5-89.1c5.7-9.9,5.7-22.2,0-32.1l-51.5-89.1C695.1,13.6,684.5,7.5,673,7.5H570.1"/>
 	</g>
 	<line fill="none" stroke="#5397D1" stroke-width="15" stroke-miterlimit="10" x1="193.6" y1="7.5" x2="570.6" y2="7.5"/>
 	<line fill="none" stroke="#5397D1" stroke-width="15" stroke-miterlimit="10" x1="193.6" y1="250" x2="570.6" y2="250"/>
